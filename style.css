@@ -1,0 +1,39 @@
+
+
+* {
+    
+    background-color: antiquewhite;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.main .img{
+    width: 50%;
+
+}
+
+.main .content{
+    width: 50%;
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+}
+.imga{
+    text-align: end;
+}
+a{
+    background-color: #000;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 65px;
+    color: #fff;
+}
+
+.padding{
+    padding: 25px;
+}
